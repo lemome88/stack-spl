@@ -1,0 +1,9 @@
+Base feature 
+	description: implements the base module of a stack.
+	methods: 
+		public void push(Object)
+			introduces an object on the stack
+		public Object pop()
+			extract and object from the stack
+End of Base feature documentation
+	

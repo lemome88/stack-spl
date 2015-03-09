@@ -7,10 +7,8 @@
 				<cardinality max="1" min="1"/><groupedFeature name="myneweiderbranchalternative"/>
 				<groupedFeature name="test">
 				</groupedFeature>
-				<groupedFeature name="Feature3">
-				</groupedFeature>
 			</setRelation>
 		</solitaryFeature>
 	</binaryRelation>
-	<binaryRelation name="R-base"><cardinality max="1" min="1"/><solitaryFeature name="base2"/></binaryRelation></feature>
+	
 </feature-model>

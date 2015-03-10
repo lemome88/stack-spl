@@ -5,7 +5,7 @@
 		<cardinality max="1" min="0"/>
 		<solitaryFeature name="underFlow">
 			<setRelation name="SR-1">
-				<cardinality max="1" min="1"/><groupedFeature name="myneweiderbranchalternative"/>
+				<cardinality max="1" min="1"/>
 				<groupedFeature name="test">
 				</groupedFeature>
 			</setRelation>

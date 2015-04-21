@@ -6,5 +6,5 @@
 			
 		</solitaryFeature>
 	</binaryRelation>
-	</feature>
+	<binaryRelation name="R-base"><cardinality max="1" min="0"/><solitaryFeature name="overFlow"/></binaryRelation></feature>
 </feature-model>
